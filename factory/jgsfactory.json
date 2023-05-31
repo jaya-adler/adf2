@@ -1,10 +1,5 @@
 {
 	"name": "jgsfactory",
-	"properties": {
-		"globalConfigurations": {
-			"CICDEnvironment": "development"
-		}
-	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
