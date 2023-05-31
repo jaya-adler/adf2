@@ -2,7 +2,7 @@
 	"name": "jgsfactory",
 	"properties": {
 		"globalConfigurations": {
-			"CICDEnvironment": "test"
+			"CICDEnvironment": "development"
 		}
 	},
 	"location": "eastus",
